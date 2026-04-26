@@ -2,6 +2,26 @@
 
 Game runner 3 lajur bertema kelautan dengan Python dan `pygame`, dengan arah permainan dari kiri ke kanan.
 
+## Instalasi
+
+Disarankan memakai virtual environment.
+
+```bash
+python -m venv .venv
+```
+
+Windows PowerShell:
+
+```bash
+.venv\Scripts\Activate.ps1
+```
+
+Install dependency:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Cara menjalankan
 
 ```bash
